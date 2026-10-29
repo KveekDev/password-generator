@@ -14,3 +14,4 @@ My third programming project, developed in July 2026. This is a desktop applicat
 1. Make sure you have Python installed.
 2. Clone this repository or download the password_generator.py file[cite: 4].
 3. Run the script: python password_generator.py
+## This project was built with AI assistance as part of my learning journey
